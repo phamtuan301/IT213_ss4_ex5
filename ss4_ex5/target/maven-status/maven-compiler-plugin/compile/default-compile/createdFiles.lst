@@ -1,0 +1,12 @@
+com\example\logistics\model\IncidentReport.class
+com\example\logistics\service\ConsoleAlertService.class
+com\example\logistics\dto\IncidentExtraction$IncidentExtractionBuilder.class
+com\example\logistics\dto\IncidentExtraction.class
+com\example\logistics\LogisticsIncidentApplication.class
+com\example\logistics\model\IncidentReport$IncidentReportBuilder.class
+com\example\logistics\service\IncidentETLService$1.class
+com\example\logistics\service\IncidentETLService.class
+com\example\logistics\service\IncidentPersistenceService.class
+com\example\logistics\model\Urgency.class
+com\example\logistics\repository\IncidentRepository.class
+com\example\logistics\model\NotificationStatus.class

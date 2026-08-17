@@ -1,0 +1,9 @@
+C:\IT213\ss4_ex5\src\main\java\com\example\logistics\dto\IncidentExtraction.java
+C:\IT213\ss4_ex5\src\main\java\com\example\logistics\LogisticsIncidentApplication.java
+C:\IT213\ss4_ex5\src\main\java\com\example\logistics\model\IncidentReport.java
+C:\IT213\ss4_ex5\src\main\java\com\example\logistics\model\NotificationStatus.java
+C:\IT213\ss4_ex5\src\main\java\com\example\logistics\model\Urgency.java
+C:\IT213\ss4_ex5\src\main\java\com\example\logistics\repository\IncidentRepository.java
+C:\IT213\ss4_ex5\src\main\java\com\example\logistics\service\ConsoleAlertService.java
+C:\IT213\ss4_ex5\src\main\java\com\example\logistics\service\IncidentETLService.java
+C:\IT213\ss4_ex5\src\main\java\com\example\logistics\service\IncidentPersistenceService.java
